@@ -1,0 +1,32 @@
+{
+    "id": "3B2996DC",
+    "path": "~/Alvarez-Alvarez-Helena-PAC1/data/Metadata.Rmd",
+    "project_path": "data/Metadata.Rmd",
+    "type": "r_markdown",
+    "hash": "3094214932",
+    "contents": "",
+    "dirty": false,
+    "created": 1743632178714.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "41,14",
+        "scrollLine": "22",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "889:510",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743632970,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743632970449,
+    "read_only": false,
+    "read_only_alternatives": []
+}
